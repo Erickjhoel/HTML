@@ -7,41 +7,7 @@ and open the template in the editor.
     Created on : 26-oct-2017, 9:35:41
     Author     : flotante
 */
-body {
-    color :black;
 
-}
-
-table.t1{
-    width:90%;
-    height:300px;
-    border:dotted 2px;
-    border-color:red;
-    padding:0;
-
-
-}
-td.a{
-   border:dotted 2px ;
-    border-color:red;
-}
-tr.a1{
-    background-color: black;
-    height:3px;
-}
-table.t2{
-    width:70%;
-    height:300px;
-    border: solid 1px;
-    border-color:black;
-    padding:0px;
-  }
-  td.b1{
-    border: solid 1px;
-  } 
-  th.b{
-      border: solid 1px;
-  }
 
 /*   estilos para el menu */
 ul {
@@ -64,16 +30,10 @@ li a {
     text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
 li a:hover {
     background-color: darkred;
 }
 
 li a.active{
     background-color: green;
-}
-table.b{
-    width: 70%;
-    height: 300px;
-    border:1px solid black;
 }
