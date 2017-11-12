@@ -31,9 +31,5 @@ li a {
 }
 
 li a:hover {
-    background-color: darkred;
-}
-
-li a.active{
-    background-color: green;
+    background-color:darkgreen;
 }
