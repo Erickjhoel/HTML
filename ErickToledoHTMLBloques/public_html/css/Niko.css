@@ -8,17 +8,42 @@ and open the template in the editor.
     Author     : flotante
 */
 .niko{
-    background-color: dodgerblue;
+    background-color: #188592;
     border:solid 5px ;
-    border-color:gray;
+    border-color:#2A3C3E;
     font-size:30px;
     padding-left: 10px;
 }
 .niko2{
     margin: 25px;
-    background-color: red;
+    background-color:#2A3C3E;
 }
 .niko3{
-    margin: 1px 8px;
-    background-color:dodgerblue;    
+    background-color:#188592;
+    font-size:30px; 
+    border:solid #2A3C3E 7px;
+}
+.niko4{
+    margin: 25px;
+    background-color:#2A3C3E;
+}
+.niko4a{
+    background-color:#188592;
+    font-size:30px; 
+    border:solid #2A3C3E 7px;
+}
+.niko4b{
+    margin: 25px;
+    background-color:gray;
+}
+.niko4c{
+    background-color:#2A3C3E;
+    padding: 10px;
+    border:solid gray 10px;
+}
+.foton{
+    float:left;
+}
+.foton2{
+    float: right;
 }
