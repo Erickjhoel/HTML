@@ -7,25 +7,36 @@ and open the template in the editor.
     Created on : 16-nov-2017, 9:48:50
     Author     : flotante
 */
+.cuerpo{
+   background-color:#2A3C3E;
+}
 .niko{
     background-color: #188592;
-    border:solid 5px ;
-    border-color:#2A3C3E;
     font-size:30px;
-    padding-left: 10px;
+    padding: 30px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100px;
 }
 .niko2{
     margin: 25px;
     background-color:#2A3C3E;
+    text-align: left;
+    font-size: 30px;
+    color:white;
 }
 .niko3{
     background-color:#188592;
     font-size:30px; 
     border:solid #2A3C3E 7px;
+    color:black;
 }
 .niko4{
     margin: 25px;
     background-color:#2A3C3E;
+    text-align: left;
+    font-size: 30px;
+    color:white;
 }
 .niko4a{
     background-color:#188592;
@@ -33,17 +44,39 @@ and open the template in the editor.
     border:solid #2A3C3E 7px;
 }
 .niko4b{
-    margin: 25px;
+    margin: 50px;
     background-color:gray;
+    color:black;
 }
 .niko4c{
     background-color:#2A3C3E;
-    padding: 10px;
+    padding: 15px;
     border:solid gray 10px;
+    color:white;
 }
 .foton{
     float:left;
+    border: solid white 5px;
+    padding: 3px;
 }
 .foton2{
     float: right;
+    border: solid white 5px;
+    padding: 3px;
+}
+.niko4d{
+    padding: 10px;
+    background-color:gray;
+    margin: 50px;
+    color:black;
+}
+.fotamen{
+    float:left;
+    border: solid white 5px;
+    padding: 3px;
+}
+.fotaza{
+    float:right;
+    border: solid white 5px;
+    padding: 3px;
 }
