@@ -1,0 +1,29 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 30-nov-2017, 8:48:53
+    Author     : flotante
+*/
+
+.table{
+    text-align: center;
+    width: 100%;
+    background-color:#ffcc66;
+    border:solid 5px;
+    border-color: gray;
+    padding: 5px;
+}
+.titulo{
+    text-align: center;
+    width: 100%;
+    border: solid black;
+}
+.dentro{
+    border:solid 5px;
+    border-color: aquamarine;
+}
+.ete{
+}
