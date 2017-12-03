@@ -22,8 +22,26 @@ and open the template in the editor.
     border: solid black;
 }
 .dentro{
-    border:solid 5px;
+    border:solid 15px;
     border-color: aquamarine;
+    background: orangered;
 }
-.ete{
+.table2{
+margin:0px;
+border-collapse: collapse;
+    
+}
+.bordes{
+    border:solid aquamarine;
+}
+.borderdis{
+    border:solid aquamarine;
+    border-bottom-color: red;
+}
+.table3{
+    border: solid gray;
+}
+.bor2{
+    border: solid red;
+    padding: 20px;
 }

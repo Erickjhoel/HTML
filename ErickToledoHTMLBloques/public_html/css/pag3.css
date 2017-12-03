@@ -7,4 +7,48 @@ and open the template in the editor.
     Created on : 29-nov-2017, 10:38:38
     Author     : flotante
 */
-
+.body{
+    background: #cccccc;
+}
+.titulo{
+    letter-spacing: 6px;
+    text-align: center;
+    font-size: 50px;
+}
+.prueba{
+   
+    margin-right:10%;
+    margin-left: 10%;
+}
+.sub{
+    background-color: gray;
+    margin-left: 3%;
+    margin-right: 5%;
+    font-size: 35px;
+    color: white;
+    text-indent: 20px;
+}
+.sub2{
+    background-color: gray;
+    margin-left: 3%;
+    margin-right: 5%;
+    font-size: 35px;
+    color: white;
+    text-indent: 20px;
+    clear: both;
+}
+.foton{
+    float: left;
+}
+.pri{
+    margin-top: 20px;
+    text-indent: 30px;
+}
+.rojo{
+    color: red;
+    font-family: cursive;
+}
+.blanco{
+    background: white;
+    font-weight: bold;
+}

@@ -8,8 +8,26 @@ and open the template in the editor.
     Author     : flotante
 */
 .body{
-    background-color: burlywood;
+    background-color:#CFB007;
 }
 .h1{
     text-align: center;
+    font-family: 'Diplomata SC', cursive;
+    font-size: 50px;
+}
+.centro{
+    text-align: left;
+    margin-right: 40%;
+    margin-left:40%;
+}
+.pri{
+    text-align:left;
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+}
+.seg{
+    text-align:right;
+    font-family: 'Acme', sans-serif;
+    color: white;
+    font-size: 40px;
 }
