@@ -1,0 +1,63 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 09-dic-2017, 13:05:11
+    Author     : Erick
+*/
+body{
+    background: gray;
+}
+.pri{
+    width: 11%; 
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 50px;
+    float: left;    
+    
+}
+.titulo{
+    background: black;
+    color:white;
+    font-size: 30px;
+}
+.grande{
+    display: inline-block;
+    width: 70%;
+
+}
+.texto{
+
+    float: left;
+    display: block;
+}
+.titulo2{
+    display: block;
+    background: black;
+    color:white;
+    font-size:30px;
+    padding-right: 60%;
+    float: right;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.texto2{
+
+    float:right;
+}
+.ete{
+
+    display: inline-block;
+}
+.imagen{
+    float:right;
+
+}
+.xque{
+    display: inline-block;
+    clear:both;
+    margin-top: 25%;
+    float: right;
+}

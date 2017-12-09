@@ -39,9 +39,10 @@ border-collapse: collapse;
     border-bottom-color: red;
 }
 .table3{
-    border: solid gray;
+   
+    border-collapse: collapse;
 }
 .bor2{
-    border: solid red;
+    border: solid gray;
     padding: 20px;
 }
